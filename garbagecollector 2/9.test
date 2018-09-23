@@ -1,0 +1,20 @@
+loadWH 1
+placeWorker 1 4 2
+placeWorker 2 3 5
+placeWorker 3 2 2
+placeWorker 4 6 6
+moveWorker 1 down
+moveWorker 1 down
+moveWorker 1 right
+listEntities
++
+Sikeres mozgas, sebesseg: 1.0
+Sikeres mozgas, sebesseg: 1.0
+Sikeres mozgas, sebesseg: 1.0
+1 2 Box
+2 4 Box
+3 5 Worker
+4 5 Box
+5 2 Box
+6 5 Box
+6 6 Worker

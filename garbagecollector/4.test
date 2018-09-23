@@ -1,0 +1,11 @@
+loadWH 1
+placeWorker 1 5 1
+placeWorker 2 3 5
+placeWorker 3 4 2
+placeWorker 4 6 6
+moveWorker 1 right
+setWorkerPower 1 1.2
+moveWorker 1 right
++
+Sikeres mozgas, sebesseg: 1.0
+Sikeres mozgas, sebesseg: 1.2

@@ -1,0 +1,14 @@
+1
+6 6
+setTileResistance 3 5 0.5
+Pillar 2 6
+Hole 3 2
+Trapdoor 3 3 
+Switch 4 1
+Target 6 4
+Box 4 2
+Box 2 3
+Box 2 5
+Box 5 4
+Box 5 6
++

@@ -1,0 +1,16 @@
+loadWH 1
+listTSs
+placeWorker 1 4 4
+placeWorker 2 3 5
+placeWorker 3 4 2
+placeWorker 4 6 6
+moveWorker 1 down
+listTSs
+moveWorker 1 down
+listTSs
++
+TrapDoor 3, 3 zart Switch: 1, 4
+Sikeres mozgas, sebesseg: 1.0
+TrapDoor 3, 3 zart Switch: 1, 4
+Sikeres mozgas, sebesseg: 1.0
+TrapDoor 3, 3 nyitott Switch: 1, 4

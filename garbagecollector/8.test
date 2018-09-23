@@ -1,0 +1,9 @@
+loadWH 1
+placeWorker 1 4 4
+placeWorker 2 3 5
+placeWorker 3 4 2
+placeWorker 4 6 6
+moveWorker 1 right
++
+Sikeres mozgas, sebesseg: 1.0
+Box a Target mezojere ert. Odamozgatta: W1 - Pontszama: 1
